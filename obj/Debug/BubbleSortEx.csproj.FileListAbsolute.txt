@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\BubbleSortEx\BubbleSortEx\bin\Debug\BubbleSortEx.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\BubbleSortEx\BubbleSortEx\bin\Debug\BubbleSortEx.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\BubbleSortEx\BubbleSortEx\bin\Debug\BubbleSortEx.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\BubbleSortEx\BubbleSortEx\obj\Debug\BubbleSortEx.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\BubbleSortEx\BubbleSortEx\obj\Debug\BubbleSortEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\BubbleSortEx\BubbleSortEx\obj\Debug\BubbleSortEx.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\BubbleSortEx\BubbleSortEx\obj\Debug\BubbleSortEx.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\BubbleSortEx\BubbleSortEx\obj\Debug\BubbleSortEx.pdb
